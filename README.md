@@ -18,4 +18,4 @@ You can view more information about the series using the link below
 
 [How to train your dragon](https://www.dreamworks.com/how-to-train-your-dragon)
 
-![Movie poster](![dragons_race_edge](https://github.com/Jesty420/app-dev/assets/134708747/e8dd86db-10bc-4829-a93c-9f5161054215))
+![](https://github.com/Jesty420/app-dev/assets/134708747/e8dd86db-10bc-4829-a93c-9f5161054215)
